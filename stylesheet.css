@@ -6,7 +6,7 @@ body {
     font-family: urbanist, sans-serif;
     font-size: larger;
     background-color: #fff;
-    background: linear-gradient(130deg, rgb(182, 227, 255) 0%, #7cdcb1 100%);
+    background: linear-gradient(90deg, rgb(182, 227, 255) 0%, #7cdcb1 100%);
     color: #000000;
 }
 div {
